@@ -51,6 +51,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Compile Include="View\Librarian\frmLibrarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Librarian\frmLibrarian.Designer.cs">
+      <DependentUpon>frmLibrarian.cs</DependentUpon>
+    </Compile>
+>>>>>>> 32c16beddc7ee28d124c6774989bc4a1fcb9e0c7
     <Compile Include="Model\Account.cs" />
     <Compile Include="Model\Book.cs" />
     <Compile Include="View\Login\frmLogin.cs">
@@ -73,6 +82,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="View\Reader\frmReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Reader\frmReader.Designer.cs">
+      <DependentUpon>frmReader.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Librarian\frmLibrarian.resx">
+      <DependentUpon>frmLibrarian.cs</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> 32c16beddc7ee28d124c6774989bc4a1fcb9e0c7
     <EmbeddedResource Include="View\Login\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
@@ -92,6 +113,12 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+<<<<<<< HEAD
+=======
+    <EmbeddedResource Include="View\Reader\frmReader.resx">
+      <DependentUpon>frmReader.cs</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> 32c16beddc7ee28d124c6774989bc4a1fcb9e0c7
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -146,8 +173,32 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataConnection\" />
+<<<<<<< HEAD
     <Folder Include="View\Librarian\" />
     <Folder Include="View\Reader\" />
+=======
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024px-Search_Icon.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10 Hacks For Organizing Books And Making Your Reading Space Instagram-Worthy.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-icon-customer-icon-11564158924ifw7wyjtfu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+>>>>>>> 32c16beddc7ee28d124c6774989bc4a1fcb9e0c7
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

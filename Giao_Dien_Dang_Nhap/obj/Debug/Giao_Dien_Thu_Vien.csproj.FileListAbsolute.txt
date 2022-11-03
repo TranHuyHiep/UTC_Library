@@ -13,3 +13,22 @@ C:\Nam3_ki1\C#\Giao_Dien_Thu_Vien\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Thu_Vi
 C:\Nam3_ki1\C#\Giao_Dien_Thu_Vien\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Thu_Vien.csproj.CopyComplete
 C:\Nam3_ki1\C#\Giao_Dien_Thu_Vien\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.exe
 C:\Nam3_ki1\C#\Giao_Dien_Thu_Vien\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.pdb
+<<<<<<< HEAD
+=======
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\bin\Debug\Giao_Dien_Dang_Nhap.exe.config
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\bin\Debug\Giao_Dien_Dang_Nhap.exe
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\bin\Debug\Giao_Dien_Dang_Nhap.pdb
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Thu_Vien.csproj.AssemblyReference.cache
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Thu_Vien.csproj.SuggestedBindingRedirects.cache
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.frmLibrarian.resources
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.frmLogin.resources
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.frmRegister.resources
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.frmForgetPassword.resources
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.Properties.Resources.resources
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Thu_Vien.csproj.GenerateResource.cache
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Thu_Vien.csproj.CoreCompileInputs.cache
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Thu_Vien.csproj.CopyComplete
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.exe
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.pdb
+C:\Nam3_ki1\C#\UTC_Library-master\UTC_Library-master\Giao_Dien_Dang_Nhap\obj\Debug\Giao_Dien_Dang_Nhap.View.Reader.frmReader.resources
+>>>>>>> 32c16beddc7ee28d124c6774989bc4a1fcb9e0c7
